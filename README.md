@@ -2,6 +2,13 @@
 
 Aplicativo simples para gerenciar produtos em estoque. Permite adicionar, editar, excluir e buscar produtos com foto, quantidade, preço e data de atualização.
 
+## Fotos
+![Inicio](https://github.com/wesleymp/app-estoque/blob/main/assets/images/home.png?raw=true)
+
+![Editar](https://github.com/wesleymp/app-estoque/blob/main/assets/images/editar.png?raw=true)
+
+![Excluir](https://github.com/wesleymp/app-estoque/blob/main/assets/images/excluir.png?raw=true)
+
 ## 🚀 Tecnologias
 
 - **React Native** + **Expo** - Framework mobile multiplataforma
